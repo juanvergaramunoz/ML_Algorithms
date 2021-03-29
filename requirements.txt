@@ -49,7 +49,7 @@ ptyprocess==0.6.0
 pycparser==2.18
 pydot==1.2.4
 pydotplus==2.0.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 PySocks==1.6.8
